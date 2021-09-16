@@ -1,0 +1,9 @@
+{
+    "conexion":{
+        "servidor" : "localhost",
+        "usuario" : "root",
+        "password" : "",
+        "database" : "db_api",
+        "port": "3306"
+    }
+}
